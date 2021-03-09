@@ -22,7 +22,7 @@
   <h3 align="center">ReallyFast</h3>
 
   <p align="center">
-    Auto-performance tuning, testing, and inference configuration for ML workloads.
+    Auto-performance tuning, testing, and inference configuration for ML workloads. Bring your ML models, push to start, wait for AIOps automation to find out the optimal configurations you need for production inference. Built for Kubernetes ML production workloads.
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
@@ -36,10 +36,6 @@
 </p>
 
 ## ⚡️🍻 for those who just want to drink their inference, not figure out how to build the entire bar to serve it.
-
-Auto-performance tuning, testing, and inference configuration for ML workloads. Bring your ML models, push to start, wait for AIOps automation to find out the optimal configurations you need for production inference. Built for Kubernetes ML production workloads.
-
-## Why? (Simple)
 
 You've already spent ample time and energy brewing your, delicious, ML model. Now you need to serve it... but you have no bar or bartender... you have the retail space (cloud) and customer requirements (product/users). Figuring out the right architecture and model-serving capabilities you need is a whole other conundrum from what you did in your notebook.
 
