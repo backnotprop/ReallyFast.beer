@@ -39,11 +39,24 @@
 
 Auto-performance tuning, testing, and inference configuration for ML workloads. Bring your ML models, push to start, wait for AIOps automation to find out the optimal configurations you need for production inference. Built for Kubernetes ML production workloads.
 
-## Why?
+## Why? (Simple)
 
 You've already spent ample time and energy brewing your, delicious, ML model. Now you need to serve it... but you have no bar or bartender... you have the retail space (cloud) and customer requirements (product/users). Figuring out the right architecture and model-serving capabilities you need is a whole other conundrum from what you did in your notebook.
 
 ReallyFast is the bartender-as-a-service... including Vegas capabilities with hole-in-the wall cost optimizations out of the box. I.e. it takes your model, and figures out the optimal production architecture and configuration for your desired performance.
+
+## Why (Tech)
+
+ML Applications that require high inference performance (e.g., high throughput and low latency) need optimal configuration settings across various tuning parameters in the application and infrastructure layers. Traditionally, ML applications rely on software engineers to tune these configurations––e.g., thread & memory usage, worker counts, container image types & environment settings, framework compilation settings, CPU/GPU optimization frameworks & their settings, batch models, etc...
+
+However, this manual method has several limitations:
+
+1. Tuning all possible configurations is an NP-hard problem, and engineers can only tune a small percentage of all possible configurations.
+2. Engineers spend much time and exploratory development to tune their focused configurations.
+3. Engineers are usually good at tuning their focused, or knowledgable, application configurations, e.g., Python/Flash/Gunicorn, but lack the knowledge needed to tune for optimal inference performance and other stack details such as container runtimes, hardware, and testing of accelerator frameworks (MKL, ONNX, CUDA, etc.).
+4. Kubernetes makes this problem space even further complicated.
+
+These limitations are severe for production inference workloads that need to scale efficiently. Production ML apps fail due to the inability to serve users promptly, scale to critical mass, and high-costs associated with naive scaling methods.
 
 ## What reallyfast.beer gives you
 
