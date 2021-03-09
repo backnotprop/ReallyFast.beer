@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="assets/reallyfast.beer.png" alt="Logo" width="120" height="80">
+    <img src="assets/reallyfast.beer.png" alt="Logo" width="150">
   </a>
 
   <h3 align="center">ReallyFast</h3>
