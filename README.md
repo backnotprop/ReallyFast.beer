@@ -45,7 +45,7 @@ You've already spent ample time and energy brewing your, delicious, ML model. No
 
 ReallyFast is the bartender-as-a-service... including Vegas capabilities with hole-in-the wall cost optimizations out of the box. I.e. it takes your model, and figures out the optimal production architecture and configuration for your desired performance.
 
-## Why (Tech)
+## Why? (Tech)
 
 ML Applications that require high inference performance (e.g., high throughput and low latency) need optimal configuration settings across various tuning parameters in the application and infrastructure layers. Traditionally, ML applications rely on software engineers to tune these configurations––e.g., thread & memory usage, worker counts, container image types & environment settings, framework compilation settings, CPU/GPU optimization frameworks & their settings, batch models, etc...
 
