@@ -1,16 +1,53 @@
-# reallyfast.beer ⚡️🍻 - for those who just want to drink their inference. Model serving as if it were done by an experienced bartender.
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-Auto-performance tuning and testing for ML workloads. Configure your model, push to start, wait & findout the optimal confgurations you need for production inferrence. Built for Kubernetes ML workloads.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="">
+    <img src="assets/reallyfast.beer.png" alt="Logo" width="100" height="50">
+  </a>
+
+  <h3 align="center">ReallyFast</h3>
+
+  <p align="center">
+    Auto-performance tuning, testing, and inference configuration for ML workloads.
+    <br />
+    <a href=""><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="">View Demo</a>
+    ·
+    <a href="">Report Bug</a>
+    ·
+    <a href="">Request Feature</a>
+  </p>
+</p>
+
+## ⚡️🍻 for those who just want to drink their inference, not figure out how to build the entire bar to serve it.
+
+Auto-performance tuning, testing, and inference configuration for ML workloads. Bring your ML models, push to start, wait for AIOps automation to find out the optimal configurations you need for production inference. Built for Kubernetes ML production workloads.
 
 ## Why?
 
-You've already spent ample time and energy brewing your deliocous ML model. Now you need to serve it... but you have no bar or bartender... you just have the building supplies and customer requiements. Figuring out the right architecute, and model-serving capabilities you need is a whole other conudrum from what you did in your notebook.
+You've already spent ample time and energy brewing your, delicious, ML model. Now you need to serve it... but you have no bar or bartender... you have the retail space (cloud) and customer requirements (product/users). Figuring out the right architecture and model-serving capabilities you need is a whole other conundrum from what you did in your notebook.
 
-We are the bartender-as-a-service. Engineers
+ReallyFast is the bartender-as-a-service... including Vegas capabilities with hole-in-the wall cost optimizations out of the box. I.e. it takes your model, and figures out the optimal production architecture and configuration for your desired performance.
 
 ## What reallyfast.beer gives you
 
-Our enterprise customers get the smarts of our global & continously trained ML models, as well as economies of scale discounts + multi-model and model-pipeline capabilities. For OSS users, you still get our base model, which is still wicked-smat. and this g-money library which automates some annoying performance testing tasks.
+Our enterprise customers get the smarts of our global & continuously trained performance models, as well as economies of scale discounts + multi-model and model-pipeline capabilities. For OSS users, you still get our base model, which is still wicked-smat. And this library which automates some annoying performance testing, and automated tuning, tasks for you.
 
 ## How reallyfast.beer works
 
@@ -22,3 +59,5 @@ Our enterprise customers get the smarts of our global & continously trained ML m
 5. wait for the resuts
 
 ... ok its not that simple, you need a cloud env and a budget of around $100. There is some advanced config if you want to really make ths brew spicy.
+
+## Roadmap
