@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="assets/reallyfast.beer.png" alt="Logo" width="100" height="50">
+    <img src="assets/reallyfast.beer.png" alt="Logo" width="120" height="80">
   </a>
 
   <h3 align="center">ReallyFast</h3>
@@ -61,3 +61,17 @@ Our enterprise customers get the smarts of our global & continuously trained per
 ... ok its not that simple, you need a cloud env and a budget of around $100. There is some advanced config if you want to really make ths brew spicy.
 
 ## Roadmap
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/backnotprop/ReallyFast.beer.svg?style=for-the-badge
+[contributors-url]: https://github.com/backnotprop/ReallyFast.beer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/backnotprop/ReallyFast.beer.svg?style=for-the-badge
+[forks-url]: https://github.com/backnotprop/ReallyFast.beer/network/members
+[stars-shield]: https://img.shields.io/github/stars/backnotprop/ReallyFast.beer.svg?style=for-the-badge
+[stars-url]: https://github.com/backnotprop/ReallyFast.beer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/backnotprop/ReallyFast.beer.svg?style=for-the-badge
+[issues-url]: https://github.com/backnotprop/ReallyFast.beer/issues
+[license-shield]: https://img.shields.io/github/license/backnotprop/ReallyFast.beer.svg?style=for-the-badge
+[license-url]: https://github.com/backnotprop/ReallyFast.beer/blob/master/LICENSE.txt
